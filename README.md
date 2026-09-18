@@ -1,6 +1,6 @@
 # Karan Kansal — Portfolio
 
-Personal portfolio site.
+Personal portfolio website.
 
 Software Engineer. Agentic AI and retrieval on top of Java and Python backends — LangChain,
 LangGraph, Qdrant, Spring Boot, FastAPI. Previously Yamaha Motor Solutions, building backend
